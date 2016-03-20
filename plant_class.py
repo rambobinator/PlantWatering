@@ -1,3 +1,4 @@
+# coding: utf8
 import csv
 from datetime import datetime, timedelta
 import os

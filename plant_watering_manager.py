@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+# coding: utf8
 import csv
 from datetime import datetime
 import os
